@@ -1,0 +1,27 @@
+{
+  "solidity.packageDefaultDependenciesContractsDirectory": "src",
+  "solidity.packageDefaultDependenciesDirectory": "dependencies",
+  "solidity.remappings": [
+    "@openzeppelin-contracts/=dependencies/@openzeppelin-contracts-5.2.0-rc.1/"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#f8244a",
+    "activityBar.background": "#f8244a",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#2cd807",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#f8244a",
+    "statusBar.background": "#e2072e",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#f8244a",
+    "statusBarItem.remoteBackground": "#e2072e",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#e2072e",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#e2072e99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#e2072e"
+}
